@@ -1,3 +1,5 @@
+Link: https://www.youtube.com/watch?v=mlr9BF4JomE
+
 HOW IS DJANGO STRUCTURED
 
 **** LIBRARIES IMPORTED ****
