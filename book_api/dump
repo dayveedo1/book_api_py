@@ -1,0 +1,7 @@
+ """
+    books = Book.objects.all()  # return complex data datatype and needs to be converted to python datastructure
+    books_conv = list(books.values())  # python DS
+    return JsonResponse({
+        'books': books_conv
+    })
+    """

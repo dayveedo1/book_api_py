@@ -1,0 +1,26 @@
+HOW IS DJANGO STRUCTURED
+
+**** LIBRARIES IMPORTED ****
+- from rest_framework import serializers (serializer.py), create a serializer class
+- import serializer in views
+- import model class in views.py
+
+
+
+
+
+
+
+
+
+
+
+**** PAYLOAD ****
+
+- POST
+{
+"title": "Machine Learning",
+"number_of_pages": 300,
+"published_date": "2023-02-27",  #YYYY-MM-DD
+"quantity": 1000
+}
